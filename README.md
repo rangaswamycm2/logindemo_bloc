@@ -6,11 +6,12 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+This application developed flutter version is 3.10.0.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+if any one run the code please cross check the flutter version 3.10.0
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+in this project only two screen developed, they are
+1) login with bloc pattern.
+2) dashboard ui with light mode or dark mode based on device theme mode.
+
+in login screen also applied dark and light theme.
